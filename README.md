@@ -24,19 +24,19 @@ The dataset used is from Maven Cycles, simulating a bike product sales company. 
 ## 🔍 Key Report Pages & Visuals
 
 ### 📌 Executive View
-![Executive View](Screenshots/Executive View.png)
+![Executive View](Screenshots/Executive%20View.jpg)
 
 ### 📌 Key Influencers
-![Key Influencers](Screenshots/Key Influencers.png)
+![Key Influencers](Screenshots/Key%20Influencers.jpg)
 
 ### 📌 Sandbox (Data Table)
-![Sandbox](Screenshots/Sandbox.png)
+![Sandbox](Screenshots/Sandbox.jpg)
 
 ### 📌 Decomposition Tree
-![Decomposition Tree](Screenshots/Decomposition Tree.png)
+![Decomposition Tree](Screenshots/Decomposition%20Tree.jpg)
 
 ### 📌 Clustering & Grouping
-![Clustering & Grouping](Screenshots/Clustering & Grouping.png)
+![Clustering & Grouping](Screenshots/Clustering%20&%20Grouping.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ The dataset used is from Maven Cycles, simulating a bike product sales company. 
 
 This is the data model used to relate and organize data tables in Power BI:
 
-![Data Model](Screenshots/Data Model.png)
+![Data Model](Screenshots/Data%20Model.jpg)
 
 ---
 
@@ -63,4 +63,3 @@ This is the data model used to relate and organize data tables in Power BI:
 This work was done as part of the [PL-300 Power BI Certification Prep Course on Udemy](https://www.udemy.com/course/microsoft-power-bi-certification-da-100-exam-prep/).
 
 ---
-
