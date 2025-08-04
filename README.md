@@ -24,27 +24,27 @@ The dataset used is from Maven Cycles, simulating a bike product sales company. 
 ## 🔍 Key Report Pages & Visuals
 
 ### 📌 Executive View
-![Executive View](images/executive-view.png)
+![Executive View](Screenshots/Executive View.png)
 
 ### 📌 Key Influencers
-![Key Influencers](images/key-influencers.png)
+![Key Influencers](Screenshots/Key Influencers.png)
 
 ### 📌 Sandbox (Data Table)
-![Sandbox](images/sandbox.png)
+![Sandbox](Screenshots/Sandbox.png)
 
 ### 📌 Decomposition Tree
-![Decomposition Tree](images/decomposition-tree.png)
+![Decomposition Tree](Screenshots/Decomposition Tree.png)
 
 ### 📌 Clustering & Grouping
-![Clustering & Grouping](images/clustering-grouping.png)
+![Clustering & Grouping](Screenshots/Clustering & Grouping.png)
 
 ---
 
-## 📐 Data Model
+## 🧩 Data Model
 
-Here’s the data model used in the Power BI project:
+This is the data model used to relate and organize data tables in Power BI:
 
-![Data Model](images/data-model.png)
+![Data Model](Screenshots/Data Model.png)
 
 ---
 
